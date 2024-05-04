@@ -23,14 +23,6 @@ Based on the classic game of Chess, Crux extends the board to 14x14 and introduc
 <img src="./screenshots/setup.png" width="500" height="449" alt="A 14x14 chess board with pieces setup for a game">
 <img src="./screenshots/in-game.png" width="500" height="449" alt="A 14x14 chess board with several pieces moved after multiple turns">
 
-## Usage
-
-To run the program, navigate to the root directory and run the following command:
-
-```bash
-gradle run
-```
-
 ## Installation
 
 Prior to running the program, ensure that you have the following installed:
@@ -38,3 +30,11 @@ Prior to running the program, ensure that you have the following installed:
 - Java 1.8
 - Gradle 7.0
 - Processing 3.3.7
+
+## Usage
+
+To run the program, navigate to the root directory and run the following command:
+
+```bash
+gradle run
+```
