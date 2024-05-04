@@ -20,8 +20,8 @@ Based on the classic game of Chess, Crux extends the board to 14x14 and introduc
 
 ## Screenshots
 
-<img src="./screenshots/setup.png" width="500" height="399" alt="A 14x14 chess board with pieces setup for a game">
-<img src="./screenshots/in-game.png" width="500" height="399" alt="A 14x14 chess board with several pieces moved after multiple turns">
+<img src="./screenshots/setup.png" width="500" height="449" alt="A 14x14 chess board with pieces setup for a game">
+<img src="./screenshots/in-game.png" width="500" height="449" alt="A 14x14 chess board with several pieces moved after multiple turns">
 
 ## Usage
 
